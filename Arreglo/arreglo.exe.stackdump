@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004011AC
+eax=00001CEF ebx=0022CC9C ecx=20000008 edx=6AD6B5E2 esi=612F1909 edi=612F1914
+ebp=0022CC78 esp=0022CC30 program=C:\Users\Martines II\Documents\NetBeansProjects\Arreglo\dist\Debug\Cygwin_1-Windows\arreglo.exe, pid 2027, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC78  004011AC (00000001, 0022CC9C, 200000D0, 6100AF7A)
+0022CD28  6100AFDC (00000000, 0022CD84, 61009E10, 00000000)
+0022CD84  610088F2 (00000000, 00000000, 00000000, 00000000)
+End of stack trace
